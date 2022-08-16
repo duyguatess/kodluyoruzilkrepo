@@ -20,3 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için lütfen önceneyi de
 
 # Licance
 [MIT]
+![oxjhcajskclşslkjhbasklş](https://user-images.githubusercontent.com/109992483/184903914-9bf2e0a3-e0bd-4316-89b2-8e44001ec0e2.png)
