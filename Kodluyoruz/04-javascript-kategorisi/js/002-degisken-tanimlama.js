@@ -1,7 +1,8 @@
 // ********** let ve const ile Degisken Tanimlama ********** 
 
 // var ile degisken tanimlamak:
-// var serverName = "api.kodluyoruz.org"
+//var serverName="api.kodluyoruz.org"
+
 // console.log(serverName)
 
 // let ile degiskeni bos tanimlamak:
