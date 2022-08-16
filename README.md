@@ -4,7 +4,8 @@ Bu repo Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir a
 # Installation
 Projeyi clonelayın. [LİNK](https://github.com/duyguatess/kodluyoruzilkrepo.git)
 ```
-git clone https://github.com/duyguatess/kodluyoruzilkrepo.git
+git clone https://github.com/duyguates
+s/kodluyoruzilkrepo.git
 ```
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programını açınız.
